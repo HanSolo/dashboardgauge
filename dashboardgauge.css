@@ -1,0 +1,3 @@
+.dashboard-gauge {
+    -fx-skin: "DashBoardGaugeSkin";
+}
